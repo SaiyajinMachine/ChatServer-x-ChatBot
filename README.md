@@ -1,8 +1,6 @@
-# Code for All_Bootcamp @ Porto
 
 ## Project Overview
-
-Welcome to the Code for All_Bootcamp project! This is a server-based Java application that combines a chat server with an interactive chat bot. The chat bot is capable of playing rock-paper-scissors with clients, providing an engaging and fun experience.
+This is a server-based Java application that combines a chat server with an interactive chat bot. The chat bot is capable of playing rock-paper-scissors with clients, providing an engaging and fun experience.
 
 ## Features
 
